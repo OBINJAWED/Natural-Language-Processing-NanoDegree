@@ -8,14 +8,18 @@
 
 ## Projects:
 
-#### Project 1: 
+### Project 1: 
 
-Build a Part of Speech Tagging Model. 
+#### Build a Part of Speech Tagging Model. 
+Used several techniques, including table lookups, n-grams, and Hidden Markov Models, to tag parts of speech
+in sentences, and compared their performances.
 
-#### Project 2: 
+### Project 2: 
 
-Build a deep neural network that functions as part of an end-to-end machine translation pipeline.
+#### Build a deep neural network that functions as part of an end-to-end machine translation pipeline.
+The pipeline accepts English text as input and returns the French translation.
 
-#### Project 3: 
+### Project 3: 
 
 #### Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline.
+The model converts raw audio into feature representations, which are then turned into transcribed text.
