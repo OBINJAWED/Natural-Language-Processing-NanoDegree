@@ -8,9 +8,14 @@
 
 ## Projects:
 
-#### Project 1: Build a Part of Speech Tagging Model. 
+#### Project 1: 
 
-#### Project 2: Build a deep neural network that functions as part of an end-to-end machine translation pipeline.
+Build a Part of Speech Tagging Model. 
 
-#### Project 3: Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR)
-#### pipeline.
+#### Project 2: 
+
+Build a deep neural network that functions as part of an end-to-end machine translation pipeline.
+
+#### Project 3: 
+
+#### Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline.
